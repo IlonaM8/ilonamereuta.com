@@ -2981,7 +2981,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #e67534;
+			background-color: #FF7D7D;
 			color: #d3d4e4;
 		}
 
@@ -3817,7 +3817,7 @@ input, select, textarea {
 	#main > header {
 		padding: 12em 0 10em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+		background-image: -webkit-linear-gradient(top, rgba(244, 73, 73, 0.5), rgba(202, 60, 60, 0.5));
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(26, 25, 25, 0.5));
 		background-attachment: fixed;
